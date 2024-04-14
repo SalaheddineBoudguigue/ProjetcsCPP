@@ -14,7 +14,7 @@ class Vecteur {
 private :
   // attributs
   int N;
-  float initial_value;
+  float initial_value; // this attri is not necessary but if removed all implemetation need to be altered
   float* data;
 
 public :
