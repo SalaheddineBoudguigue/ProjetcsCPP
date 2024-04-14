@@ -2,6 +2,10 @@
     Attention, elle ne doit contenir aucune implémentation de méthode / fonction
 */
 
+/*
+Implementation of vector data structure
+Vectuer v1(4, 2.4); dimension 4 and initial value of 2.4
+*/
 
 
 #ifndef _VECTEUR_H
